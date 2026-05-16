@@ -38,7 +38,7 @@ Our project centers Tribal self-determination and the integration of Tribal Know
 
 ## Questions?
 For questions or collaboration inquiries, please contact:  
-**James (Jim) Sanovia** – Tribal Data Scientist, CIRES ESIIL Lab, CU Boulder  
+**James (Jim) Sanovia** Tribal Data Scientist, CIRES ESIIL Lab, CU Boulder  
 Email: [James.Sanovia@colorado.edu]
 
 ## Acknowledgment
