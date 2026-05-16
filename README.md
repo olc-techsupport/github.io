@@ -1,48 +1,70 @@
-# Oglala Lakota College Integrated Data Cube Project
+# Oglala Lakota College Geospatial Data Science Hub
+**Integrated Data Cube (IDC) Project · USDA-NIFA Funded · Active 2025–2026**
 
-Welcome to the **OLC NIFA IDC** repository, part of the USDA-NIFA IDC project at **Oglala Lakota College**.  
-This repository serves as the central hub for our group, hosting our project description, member bios, codebase, datasets, and more.
+> *"Data sovereignty means communities define how their data is used, shared, and understood."*
 
-## Our Project
-Communities across the globe are navigating an era of profound environmental disruption, including the contamination of air and water, declining freshwater availability, habitat loss, and an accelerating climate crisis. For many Tribal Nations, these challenges are compounded by the legacies of colonization and systemic inequities that have limited access to environmental data and decision-making tools.
+## About This Project
+The **OLC Integrated Data Cube** is a community-driven data and workflow platform built *by* and *for* Tribal Nations. We are creating flexible, sovereignty-aligned tools that enable the Oglala Lakota Nation to gather, interpret, and apply environmental information such as agriculture, water, land, geology, soils, and ecosystem monitoring on their own terms.
 
-At the same time, Tribal peoples bring generations of knowledge and enduring relationships with their homelands that offer critical insights for sustaining ecosystems. Traditional ways of understanding the world that are rooted in balance, respect, and reciprocity hold lessons for all of us.
+This is both a research infrastructure and a learning environment, designed to expand local expertise in data science while integrating principles of traditional knowledge systems and inherent Tribal sovereignty.
 
-The **Integrated Data Cube (IDC)** initiative seeks to unite these strengths with the capabilities of modern Earth data science. Our team is creating a flexible, community-driven data and workflow platform that enables Tribal Nations to gather, interpret, and apply environmental information in ways that align with their own priorities and governance systems. It is both a research infrastructure and a learning environment designed to expand local expertise in data analysis and evidence-based decision-making while also integrating principles of traditional knowledge systems and inherent Tribal sovereignty.
+**Built by:** Oglala Lakota College in collaboration with [Daear Consulting, LLC](https://github.com/daearconsulting) and CIRES Earth and ESIIL Labs, CU Boulder  
 
-Ultimately, this work supports Tribal sovereignty and resilience. By equipping communities with tools to visualize and interpret their own environmental data, the IDC helps ensure that responses to climate and ecological change are guided by Tribal leadership, knowledge, and values.
+## Focus Areas
+| Domain | Description |
+|---|---|
+|  **Hydrology** | Hydrologic data cubes for water access and management |
+|  **Agriculture** | Agricultural datasets supporting food sovereignty and land use |
+|  **Geospatial** | Reproducible geospatial workflows and data cubes |
+|  **Education** | Teaching tools and training materials for OLC students and community |
+|  **Data Sovereignty** | Workflows aligned with OCAP®, CARE, FAIR, and Local Contexts frameworks |
 
-## Expected Impact
-**Increased Tribal Access to Data Science**  
-Making EDS accessible supports Tribal-led environmental research and resource management.
+## Expected Impacts
+- **Tribal access to Earth data science** supporting Tribal-led environmental research
+- **Capacity building** : expanding data literacy for students, Elders, and community members
+- **Climate resilience** : self-determined responses to environmental challenges
+- **Centering Tribal Knowledges** : integrating traditional knowledge with modern Earth data tools
 
-**Capacity Building and Training**  
-The DataCube will serve as a teaching and learning tool for Oglala Lakota College, students, Elders, and community members, expanding technical and data literacy skills.
+## Sovereignty Frameworks
+This work is guided by:
 
-**Stronger Environmental and Climate Resilience**  
-With improved data and tools, Tribes can develop more effective, self-determined responses to environmental challenges, ensuring long-term sustainability.
+[![Local Contexts](https://img.shields.io/badge/Local%20Contexts-TK%2FBC%20Labels-turquoise?style=flat)](https://localcontexts.org/)
+[![OCAP](https://img.shields.io/badge/OCAP®-First%20Nations%20IGC-red?style=flat)](https://fnigc.ca/ocap-training/)
+[![CARE](https://img.shields.io/badge/CARE-Principles-yellow?style=flat&labelColor=333)](https://www.gida-global.org/care)
+[![FAIR](https://img.shields.io/badge/FAIR-Principles-blue?style=flat)](https://www.go-fair.org/fair-principles/)
+[![IEEE 2890](https://img.shields.io/badge/IEEE-2890--2025-lightgrey?style=flat)](https://standards.ieee.org/ieee/2890/10318/)
 
-Advancing environmental data science isn’t just about technology, it’s about equity, sovereignty, and inclusion.  
-Our project centers Tribal self-determination and the integration of Tribal Knowledges with state-of-the-art Earth data tools to create lasting, meaningful change.
+## Current Work
+- Building initial data cube infrastructure
+- Integrating agricultural and hydrologic datasets
+- Developing student training materials
 
-## Team Members
+## Roadmap
 
-| Name | Affiliation |
-|------|--------------|
-| J. Foster Sawyer, PhD | Faculty, Oglala Lakota College |
-| Camille Griffith, PhD | Faculty, Oglala Lakota College |
-| Elisha Yellow Thunder | Adjunct Faculty, Oglala Lakota College |
-| James Sanovia | Tribal Resilience Data Scientist, CIRES ESIIL Lab, CU Boulder |
-| Lilly Jones, PhD | Daear Consulting, LLC; Research Faculty, CIRES Earth Lab, CU Boulder |
-| Ty Tuff | Lead Data Scientist, CIRES ESIIL Lab, CU Boulder |
+- Community-facing data tools
+- Expanded dataset integrations
+- Workshops with Tribal partners
+- Tribal Hackathon to introduce tools
 
-## Questions?
-For questions or collaboration inquiries, please contact:  
-**James (Jim) Sanovia** Tribal Data Scientist, CIRES ESIIL Lab, CU Boulder  
-Email: [James.Sanovia@colorado.edu]
+## Team
+| Name | Role | Affiliation |
+|---|---|---|
+| Dana Gehring | Department Head | Oglala Lakota College |
+| J. Foster Sawyer, PhD | Faculty · Project Lead | Oglala Lakota College |
+| Camille Griffith, PhD | Faculty | Oglala Lakota College |
+| Elisha Yellow Thunder | Adjunct Faculty | Oglala Lakota College |
+| James Sanovia | Tribal Data Scientist | CIRES ESIIL Lab · CU Boulder |
+| Lilly Jones, PhD | Data Scientist | Daear Consulting, LLC · CIRES Earth Lab, CU Boulder |
+| Ty Tuff, PhD | Lead Data Scientist | CIRES ESIIL Lab · CU Boulder |
 
-## Acknowledgment
-This work is guided by the principles of **Tribal data sovereignty**, **Tribal knowledge integration**, and **Community-led research**.  
-We honor the **Oglala Lakota Nation**, the **Oceti Sakowin** and the lands that sustain this work.
+## Contact
+**Questions or collaboration inquiries:**  
+[Foster Sawyer jfsawyer@olc.edu](mailto:jfsawyer@olc.edu)
+
+*We honor the **Oglala Lakota Nation**, the **Oceti Sakowin**, and the lands that sustain this work.*
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.10+-yellow)
 
 
