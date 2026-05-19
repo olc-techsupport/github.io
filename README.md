@@ -53,9 +53,9 @@ This work is guided by:
 | J. Foster Sawyer, PhD | Faculty · Project Lead | Oglala Lakota College |
 | Camille Griffith, PhD | Faculty | Oglala Lakota College |
 | Elisha Yellow Thunder | Adjunct Faculty | Oglala Lakota College |
-| James Sanovia | Tribal Data Scientist | CIRES ESIIL Lab · CU Boulder |
-| Lilly Jones, PhD | Data Scientist | Daear Consulting, LLC · CIRES Earth Lab, CU Boulder |
-| Ty Tuff, PhD | Lead Data Scientist | CIRES ESIIL Lab · CU Boulder |
+| James Sanovia | Tribal Data Scientist | Daear Consulting, LLC · CIRES ESIIL Lab, CU Boulder |
+| Lilly Jones, PhD | Geospatial Data Scientist | Daear Consulting, LLC · CIRES Earth Lab, CU Boulder |
+| Ty Tuff, PhD | Lead Data Scientist | CIRES ESIIL Lab, CU Boulder |
 
 ## Contact
 **Questions or collaboration inquiries:**  
@@ -66,5 +66,6 @@ This work is guided by:
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.10+-yellow)
+
 
 
